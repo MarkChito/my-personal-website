@@ -1,38 +1,3 @@
-/*****************************************************************************
-  ____                                  _____ _
- / ___|___  ___ _ __ ___   ___  ___    |_   _| |__   ___ _ __ ___   ___  ___
-| |   / _ \/ __| '_ ` _ \ / _ \/ __|_____| | | '_ \ / _ \ '_ ` _ \ / _ \/ __|
-| |__| (_) \__ \ | | | | | (_) \__ \_____| | | | | |  __/ | | | | |  __/\__ \
- \____\___/|___/_| |_| |_|\___/|___/     |_| |_| |_|\___|_| |_| |_|\___||___/
-******************************************************************************/
-
-
-/************ Dark Style Css **************************************
-    Template Name: Watson - Resume/Vcard Template
-    Author: cosmos-themes
-    Envato Profile: https://themeforest.net/user/cosmos-themes
-    version: 1.0
-    Copyright: 2018
-****************************************************************/
-
-
-/*************************************
-        Table of Content
-        1. Body and Core Css
-        2. Helper
-        3. Layout
-        4. Banner Section
-        5. About Section
-        6. Resume Section
-        7. Portfolio Section
-        8. Blog Section
-        9. About Section
-        10. Ajax Portfolio
-        11. Blog Page Css
-        12. Mobile Responsive Css
-**************************************/
-
-
 /*============ 1. Body and Core Css ============*/
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,500,700,900");
 @import url("https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900");
@@ -741,7 +706,7 @@ blockquote {
     bottom: 0;
     width: 100%;
     color: #fff;
-    font-size: 20px;
+    font-size: 17px;
     font-weight: 700;
     padding: 10px 0;
     text-transform: uppercase;
@@ -804,7 +769,7 @@ header .header-mobile {
 
 header .header-mobile h2 {
     position: absolute;
-    left: 50%;
+    left: 45%;
     -webkit-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
     transform: translateX(-50%);
